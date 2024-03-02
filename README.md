@@ -18,5 +18,6 @@ This is a repository where I would post my solutions to leetcode practice proble
   <li><a href="https://leetcode.com/problems/add-two-numbers/description/">2.Add Two Numbers</a></li>
   <li><a href="https://leetcode.com/problems/intersection-of-two-linked-lists/">141.Linked List Cycle</a></li>
   <li><a href="https://leetcode.com/problems/linked-list-cycle/">160.Intersection of Two Linked Lists</a></li>
+  <li><a href="https://leetcode.com/problems/delete-node-in-a-linked-list/description/">237.Delete Node in a Linked List</a></li>
 
 <ul>
