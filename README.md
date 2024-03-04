@@ -29,4 +29,5 @@ This is a repository where I would post my solutions to leetcode practice proble
 ### Greedy Algorithms
 <ul>
   <li><a href="https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1">GfG N meetings in a room</a></li>
+  <li><a href="https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1">GfG Minimum Platforms</a></li>
 </ul>
