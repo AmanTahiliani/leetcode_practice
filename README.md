@@ -21,5 +21,6 @@ This is a repository where I would post my solutions to leetcode practice proble
   <li><a href="https://leetcode.com/problems/intersection-of-two-linked-lists/">141.Linked List Cycle</a></li>
   <li><a href="https://leetcode.com/problems/linked-list-cycle-ii/">141.Linked List Cycle 2</a></li>
   <li><a href="https://leetcode.com/problems/linked-list-cycle/">160.Intersection of Two Linked Lists</a></li>
+  <li><a href="https://leetcode.com/problems/palindrome-linked-list/description/">234.Palindrome Linked List</a></li>
   <li><a href="https://leetcode.com/problems/delete-node-in-a-linked-list/description/">237.Delete Node in a Linked List</a></li>
 <ul>
