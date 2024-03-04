@@ -30,4 +30,5 @@ This is a repository where I would post my solutions to leetcode practice proble
 <ul>
   <li><a href="https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1">GfG N meetings in a room</a></li>
   <li><a href="https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1">GfG Minimum Platforms</a></li>
+  <li><a href="https://leetcode.com/problems/meeting-rooms-ii/description/?source=submission-noac">253. Meeting Rooms 2</a></li>
 </ul>
